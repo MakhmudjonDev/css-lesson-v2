@@ -23,7 +23,9 @@
   font-family: "Courier New", Courier, sans-serif;
   text-transform: uppercase;
 }
-
+.header h2 {
+  font-family: monospace;
+}
 .heading {
   padding: 250px;
   background-color: rgb(114, 85, 245);
