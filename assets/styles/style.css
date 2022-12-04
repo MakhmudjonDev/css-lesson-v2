@@ -29,7 +29,7 @@
   background-color: rgb(114, 85, 245);
 }
 
-.heading h1 {
+.heading .container h1 {
   font-family: Lobster, "Courier New", Courier, monospace;
   font-size: 100px;
   color: rgb(10, 8, 8);
